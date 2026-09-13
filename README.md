@@ -157,22 +157,6 @@ while continuing to deepen my knowledge of:
 
 ---
 
-## 📈 What You'll Find Here
-
-My GitHub is a combination of:
-
-- Personal projects
-- Backend/API projects
-- Architecture experiments
-- Integration projects
-- Learning projects
-- Code samples
-- Technical experiments
-
-I try to use projects as a way of demonstrating **how I think about software**, not just which technologies I've used.
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in opportunities involving:
