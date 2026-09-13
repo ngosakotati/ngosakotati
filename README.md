@@ -2,7 +2,7 @@
 
 ### Backend-Focused Software Developer | C# / .NET | APIs & Business Systems
 
-I'm a backend-focused software developer with **2+ years of professional software development experience**, primarily working with **C#, ASP.NET Core, Web APIs, Entity Framework Core, and SQL**.
+I'm a backend-focused software developer with **3 years of professional software development experience**, primarily working with **C#, ASP.NET Core, Web APIs, Entity Framework Core, and SQL**.
 
 I enjoy building software that solves practical business problems — particularly **enterprise applications, financial/payment-related systems, government platforms, integrations, and data-driven services**.
 
